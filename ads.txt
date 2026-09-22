@@ -1,0 +1,3 @@
+# Google AdSense publisher record for RacharlaGPT
+# Verify the publisher account and authorized sellers before production.
+google.com, pub-1188239058737040, DIRECT, f08c47fec0942fa0

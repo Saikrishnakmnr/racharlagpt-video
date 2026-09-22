@@ -1,0 +1,24 @@
+RacharlaGPT AI Movie Studio — Monetag configuration collected from legacy files.
+
+IMPORTANT: legacy projects are reference/configuration only; their implementation is not used by the new Movie Studio.
+
+Service worker:
+self.options = {
+    "domain": "5gvci.com",
+    "zoneId": 11852352
+}
+self.lary = ""
+importScripts('https://5gvci.com/act/files/service-worker.min.js?r=sw')
+
+Tag zone:
+<script>(function(s){s.dataset.zone='11852425',s.src='https://nap5k.com/tag.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+
+Vignette zone:
+<script>(function(s){s.dataset.zone='11852426',s.src='https://n6wxm.com/vignette.min.js'})([document.documentElement, document.body].filter(Boolean).pop().appendChild(document.createElement('script')))</script>
+
+Legacy direct tag:
+<script src="https://quge5.com/88/tag.min.js" data-zone="284180" async data-cfasync="false"></script>
+
+Other legacy service-worker variants found in uploaded files (not combined with the primary configuration):
+- 3nbf4.com zone 11858338
+- 3nbf4.com zone 11851741
