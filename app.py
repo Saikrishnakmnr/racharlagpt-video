@@ -56,7 +56,7 @@ div[data-testid="stFileUploader"]{background:rgba(255,255,255,.025);border:1px d
 """, unsafe_allow_html=True)
 
 # Short-lived flower/music/sparkle shower; reduced-motion friendly.
-st.components.v1.html("""
+st.iframe("""
 <script>
 (function(){
  const doc=window.parent.document;
